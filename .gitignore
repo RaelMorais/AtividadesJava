@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IntelliJ IDEA
 .idea/
 *.iml
@@ -20,3 +21,8 @@
 *.class
 *.log
 
+=======
+.idea/
+*.iml
+out/
+>>>>>>> fdce21878c494ef608759ab3da555f23de6fc76d

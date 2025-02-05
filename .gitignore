@@ -1,3 +1,28 @@
+<<<<<<< HEAD
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# User-specific files
+.idea/*.iml
+.idea/.name
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/usage.statistics
+.idea/gradle.xml
+.idea/uiDesigner.xml
+
+# Java
+*.class
+*.log
+
+=======
 .idea/
 *.iml
 out/
+>>>>>>> fdce21878c494ef608759ab3da555f23de6fc76d

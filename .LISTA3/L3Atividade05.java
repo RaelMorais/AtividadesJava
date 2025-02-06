@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Atividade05 {
+public class L3Atividade05 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int pessoa = 0;

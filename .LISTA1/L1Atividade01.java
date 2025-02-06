@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Atividade01 {
+public class L1Atividade01 {
     public static void main(String[] args) {
         int diaAtual = 31;
         int mesAtual = 01;

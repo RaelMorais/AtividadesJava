@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Atividade07 {
+public class L1Atividade07 {
     public static void main(String[] args) {
         double totalVendas = 0;
         double salarioPadrao = 1500;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Atividade01 {
+public class L3Atividade01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Quantas números deseja adicionar?\n");

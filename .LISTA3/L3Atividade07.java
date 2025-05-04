@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Atividade07 {
+public class L3Atividade07 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Qunantas pessoas irá participar? ");
